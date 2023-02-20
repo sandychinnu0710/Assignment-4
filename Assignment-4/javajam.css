@@ -1,0 +1,92 @@
+body { background-color:("background.gif");
+    color:#221811;
+     font-family: Arial, Verdana, sans-serif;
+    }
+    font-family
+    { Arial,verdana, sans-serif; }
+    header {background-color: #d2b48c;     
+            height:150px;
+            background-image:url("https://uploads.codesandbox.io/uploads/user/ed4420ca-819e-49f8-b5d6-92b92b996207/nrgJ-javajamlogo.jpg");
+            background-repeat: no-repeat;
+            display: block;
+         }
+
+     h1 { padding-top: 45px;
+           padding-left: 220px;
+           font-size: 3em;}
+     h2 {padding-left: 3em;
+     padding-right: 3em;}
+     h3 {padding-left: 3em;
+     padding-right: 3em;} 
+
+     h4 {background-color: #d2b48c;
+         font-size: 1.2em;
+         padding-left: 3em;
+         padding-bottom: 0;
+          padding-right: 3em;
+          text-transform: uppercase;
+          border-bottom: 0;
+          float: left;
+         }
+         floatleft { float: left;
+         padding-right: 2em;
+         padding-bottom: 2em;}
+
+      p {padding-left: 3em;
+     padding-right: 3em;}
+      div {padding-left: 3em;
+     padding-right: 3em;}
+     dl {padding-left: 3em;
+     padding-right: 3em;} 
+
+         main {padding-left: 0;
+               padding-right: 0;
+               padding-bottom: 2em;
+               margin-left: 200px;
+               padding-top: 0;
+               background-color: #fef6c2;
+               display: block;
+               }
+      .details {padding-right: 20%;
+                padding-left: 20%;
+                overflow:auto;
+                }
+      img {padding-left: 10px;
+           padding-right: 10px;} 
+
+     nav { font-size: 1.5em;
+           padding-top: 10px;
+        font-weight: bold;
+          text-align: center;
+          float: left;
+          width: 200px;
+          display: block;
+          color: #fef6c2;
+          }
+          nav a {text-decoration: none;}
+         *{ box-sizing: border-box;}
+         nav ul {list-style-type: none;
+                 padding-left: 0;}
+          #heroroad { background-image: url();
+             background-size: 100%;
+             height: 250px;}
+#heromugs { background-image: url(pic/cups1.jpg);
+            background-size: 100%;
+            height: 250px; }
+#heroguitar { background-image: url(pic/guiter1.jpg);
+              background-size: 100%;
+              height: 250px;}
+      footer {background-color: #d2b48c;
+             font-size: .60em;
+             text-align: center;
+             font-style: italic;
+             padding-bottom: 10px;
+             border-top: 2px solid #221811;
+             display: block;}   
+     
+             #wrapper { margin-left: auto;
+   margin-right: auto;
+   width: 80%;
+   background-color: #231814;
+   min-width: 900px; 
+   max-width: 1280px }

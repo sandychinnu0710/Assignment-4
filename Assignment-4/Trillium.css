@@ -1,0 +1,57 @@
+body { 
+    
+    background-image: url(pic/flower.jpg);
+    
+    url(pic/flower.jpg); 
+   background-size: cover;
+       background-color: #e6e6fa; 
+       color: black;
+       font-family: Arial, Verdana, sans-serif; }
+       
+   #wrapper { margin-left: auto; 
+           margin-right: auto; 
+           width: 80%; }
+   h1 { 
+       background-size: contain;
+       background-image: url("pic/flower1.jpg");
+       background-repeat: no-repeat;
+       padding: 1em;
+       text-align: center;
+       background-color:#4b4baf;
+       color: 191970;
+       line-height: 200%;
+       font-family: Georgia, "Times New Roman", serif; 
+       text-indent: 1em;
+       text-shadow: 3px 3px 5px #CCCCCC; }
+   h2 { 
+       background-size: contain;
+       background-image: url("pic/flower1.jpg");
+       background-repeat: no-repeat;
+       background-color: #AEAED4;
+        color: #191970;
+        font-family: Georgia, "Times New Roman", serif;
+       text-align: center; }
+   nav { font-weight: bold;
+       font-size: 1.25em;
+       word-spacing: 1em;}
+   nav a{
+       text-decoration: none;
+   }
+   p { font-size: .90em;
+       text-indent: 3em; }
+   ul { font-weight: bold; }  
+   .feature { color: #C70000; } 
+    #feature { color: #333333; }
+   footer { 
+       background-size:contain;
+       background-image: url("pic/flower1.jpg");
+       background-repeat: no-repeat;
+       background-position-x: right;
+   padding-top: 10px;
+   color: #333333;
+       color: #333333;
+       font-size: .75em;
+       font-style: italic; }
+   .company { font-weight: bold;
+       font-family: Georgia, "Times New Roman", serif;
+        font-size: 1.25em; }

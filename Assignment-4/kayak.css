@@ -1,0 +1,31 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-image: url("pic/boat.jpg");
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    }
+    /* h1{
+       
+    } */
+    #wrapper { margin-left: auto; 
+       margin-right: auto; 
+       width: 80%; }
+    nav
+     { 
+       background-color: #152420;
+   color:white;
+   line-height: 250%;
+   text-size-adjust: 100px;
+   text-decoration: none; 
+   font-stretch: wider;
+   }
+   h2, h3 { font-family: Georgia, "Times New Roman", serif; }
+
+   footer{
+       font-size: small;
+       font-style: italic;
+   }
